@@ -1,0 +1,1 @@
+# VerificadorDeSeguran-a
